@@ -15,3 +15,7 @@ django-admin startproject projectname
 
 python3 manage.py startapp appname
 
+#run on server
+
+python3 manage.py runserver
+
