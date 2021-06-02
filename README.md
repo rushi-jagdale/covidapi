@@ -1,17 +1,17 @@
 # covidapi
-install django
+#install django
 
 pip install django
 
-install rest_framework
+#install rest_framework
 
 pip install rest_framework
 
-create project
+#create project
 
 django-admin startproject projectname
 
-create app
+#create app
 
 python3 manage.py startapp appname
 
