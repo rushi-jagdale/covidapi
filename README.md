@@ -14,9 +14,12 @@ django-admin startproject projectname
 # open setting.py file of your project 
 
 DATABASES = {
+
     'default': {
-        'ENGINE': 'djongo',
-        'NAME': 'your-db-name',
+
+'ENGINE': 'djongo',
+
+'NAME': 'your-db-name',
     }
 }
 
