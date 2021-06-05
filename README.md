@@ -20,6 +20,7 @@ DATABASES = {
 'ENGINE': 'djongo',
 
 'NAME': 'your-db-name',
+
     }
 }
 
